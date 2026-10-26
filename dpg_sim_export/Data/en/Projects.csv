@@ -57,7 +57,7 @@ P54,"Application Dissemination","You think that more people should be aware of y
 P55,"Performance Issues","You notice that your application is working really slow. You decide to spend more time on optimizing existing features rather than adding extra ones."
 P56,"Outsource to Junior Developers","You pay a little amount of money to junior developers. The code will be messy, the features might stop working after updates, but the price is pretty low."
 P57,"Outsource to Professional Developers","You pay a professional team much money to build it fast. The code is reliable, but the additional features might not be implemented due to high costs."
-P58,"MVP: Core Features Only","Browse air-quality at the current district, without any additional metrics."
+P58,"Core Features Only","Browse air-quality at the current district, without any additional metrics."
 P59,"Full Feature Build","Browse air-quality at the current district for the specified time, with additional metrics about which gases pollute the air and their percentage."
 P60,"Overlooked User Need","You've launched your MVP, but you constantly get reports from the users about particular features not implemented making the application uncomfortable to use. You decide to spend time on their development."
 P61,"Partnership Opportunity","A small team of entrepreneurs noticed your project and offers co-fund the next phase in exchange for input on the app's direction and a seat at your table."
